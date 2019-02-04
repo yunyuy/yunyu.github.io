@@ -43,8 +43,9 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000' # keep as all capital and do not remove the ' or # characters
-lowlight-color: '#000' # keep as all capital and do not remove the ' or # characters
+# highlight-color is the thin band at the top of the site, and lowlight-color is the thicker band below it
+highlight-color: '#3498CC' # keep as all capital and do not remove the ' or # characters
+lowlight-color: '#585E60' # keep as all capital and do not remove the ' or # characters
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
