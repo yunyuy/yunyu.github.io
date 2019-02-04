@@ -1,6 +1,7 @@
 # Site wide configuration
+# In YAML files text after a # character is a "comment" which is ignored
 
-title: Site Title
+title: Site Title # Perhaps Your Name, Place or University
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -42,8 +43,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#CC0000' # keep as all capital and do not remove the ' or # characters
+lowlight-color: '#000' # keep as all capital and do not remove the ' or # characters
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
